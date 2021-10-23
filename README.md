@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://evertonjr21.github.io/html-css/desafios/desafio10/android.html"
+<a href="https://evertonjr21.github.io/html-css/desafios/desafio10/android.html">Executar o site
